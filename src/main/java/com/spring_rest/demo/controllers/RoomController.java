@@ -63,4 +63,3 @@ public class RoomController {
         return ResponseEntity.ok("Room has been deleted");
     }
 }
-
